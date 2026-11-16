@@ -1,8 +1,12 @@
 # Speedrun English
 
-A Mac app for learning English vocabulary by typing fast. Each run is
-scored against your own records, the best minute and the longest combo,
-and spaced reviews bring every word back before you forget it.
+**One more run. Then one more word.**
+
+Speedrun English turns learning English into the kind of game you cannot
+put down: short runs, a combo that begs not to break, and a personal best
+that is always one minute away. Behind the rush, spaced reviews make sure
+every word you clear stays cleared.
+
 Everything stays on your Mac: no account, and Speedrun English connects
 to the internet only to check for updates.
 
