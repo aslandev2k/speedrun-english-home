@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Speedrun English</title>
+    <link>https://aslandev2k.github.io/speedrun-english-home/appcast.xml</link>
+    <description>Updates for Speedrun English, a Mac app for learning English vocabulary by typing fast.</description>
+    <language>en</language>
+    <!-- newest first -->
+  </channel>
+</rss>
