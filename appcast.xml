@@ -6,5 +6,14 @@
     <description>Updates for Speedrun English. One more run, one more word.</description>
     <language>en</language>
     <!-- newest first -->
+    <item>
+      <title>Speedrun English 0.1.0</title>
+      <pubDate>Sat, 21 Nov 2026 03:01:44 +0000</pubDate>
+      <sparkle:version>202611211001</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://aslandev2k.github.io/speedrun-english-home/notes/0.1.0.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/aslandev2k/speedrun-english-home/releases/download/v0.1.0/Speedrun-English-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="fDUo0UA/GscalW0OuLi97WvMkJP+DOxtz6183RDQyp2VFpmC4Vfq/5fe8OvCkrb44Kefd1wNK21XyLW6Ni41Dg==" length="41826744"/>
+    </item>
   </channel>
 </rss>

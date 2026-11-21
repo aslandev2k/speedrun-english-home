@@ -14,8 +14,6 @@ Needs macOS 27 or later on a Mac with Apple silicon.
 
 **[Download the latest version](https://github.com/aslandev2k/speedrun-english-home/releases/latest)**
 
-No version has been released yet.
-
 ## Install
 
 1. Download `Speedrun-English-<version>.dmg` from the
