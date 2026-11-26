@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- newest first -->
     <item>
+      <title>Speedrun English 0.2.0</title>
+      <pubDate>Thu, 26 Nov 2026 15:33:35 +0000</pubDate>
+      <sparkle:version>202611262233</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://aslandev2k.github.io/speedrun-english-home/notes/0.2.0.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/aslandev2k/speedrun-english-home/releases/download/v0.2.0/Speedrun-English-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="Q/twRHBKIYwQmWV6OFFdriC9O9NbI54o+JeFVO10bmre0bl/prYIIxRf0pWgiB939h/638AFsvg/8SGZ+OeuBA==" length="86492328"/>
+    </item>
+    <item>
       <title>Speedrun English 0.1.1</title>
       <pubDate>Sun, 22 Nov 2026 03:10:31 +0000</pubDate>
       <sparkle:version>202611221010</sparkle:version>
